@@ -1,5 +1,5 @@
 # OSSW-W2
-**나만의 사칙연산 계산기 만들기**
+**나만의 사칙연산 계산기 만들기**   
 ![Calculator](https://cdn-icons-png.flaticon.com/512/5316/5316955.png)
    
 ## 실행 방법 🔌
